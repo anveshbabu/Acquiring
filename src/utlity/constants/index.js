@@ -1,0 +1,1 @@
+export {DOCS_MENU} from './docsMenu'
