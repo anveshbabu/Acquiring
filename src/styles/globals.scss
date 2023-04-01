@@ -3,3 +3,22 @@
 @import "./scss/vendor/fontawesome/scss/brands.scss";
 @import "./scss/vendor/fontawesome/scss/regular.scss";
 @import "./scss/vendor/fontawesome/scss/solid.scss";
+@import "@uiw/react-textarea-code-editor/dist.css";
+pre{
+    code{
+        &.language-html{
+            background-color: transparent;
+            color: #fff;
+        }
+
+    }
+}
+
+.w-tc-editor code[class*='language-'] .token.tag, .w-tc-editor pre[class*='language-'] .token.tag {
+    color: #800000 !important;
+    font-weight: bold;
+}
+
+.w-tc-editor code[class*='language-'] .token.punctuation, .w-tc-editor pre[class*='language-'] .token.punctuation {
+    color: #800000 !important;
+}

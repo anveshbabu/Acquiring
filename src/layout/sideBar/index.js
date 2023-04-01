@@ -1,5 +1,5 @@
 
-
+import Link from 'next/link';
 
 export default function SideBar(props) {
     let {
@@ -25,7 +25,7 @@ export default function SideBar(props) {
                             <nav id="docs-nav" className="docs-nav navbar p-0" >
                                 <ul className="section-items list-unstyled nav flex-column pb-3">
                                     {subMenu.map((data, j) =>
-                                        <li key={j} className="nav-item"><a className="nav-link scrollto" href="#item-1-1">{data.title}</a></li>
+                                        <li key={j} className="nav-item"><Link className="nav-link scrollto" href={data.url}>{data.title}</Link></li>
                                     )}
                                 </ul>
                             </nav>

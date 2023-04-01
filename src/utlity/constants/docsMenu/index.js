@@ -6,27 +6,27 @@ export const DOCS_MENU = {
             subMenu: [
                 {
                     title: "Introduction",
-                    url: ""
+                    url: "/docs/html/introduction"
                 },
                 {
                     title: " Heading Tags",
-                    url: ""
+                    url: "/docs/html/headingsTags"
                 },
                 {
                     title: "Horizontal Ruler Tags",
-                    url: ""
+                    url: "/docs/html/horizontalTags"
                 },
                 {
                     title: "Text Formatting Tags",
-                    url: ""
+                    url: "/docs/html/textFormattingTag"
                 },
                 {
                     title: "Font Tag ",
-                    url: ""
+                    url: "/docs/html/fontTag"
                 },
                 {
                     title: "Image Tag ",
-                    url: ""
+                    url: "/docs/html/imageTag"
                 },
                 {
                     title: "Table Tag ",
