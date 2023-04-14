@@ -7,3 +7,4 @@ export {HTML_IMAGE_TAGS} from './imageTag';
 export { HTML_TABLE_TAGS } from './tableTag';
 export { HTML_LIST_TAGS } from './listTag';
 export { HTML_MARQUEE_TAGS } from './marqueeTag';
+export { HTML_ANCHOR_TAGS } from './anchorTag';

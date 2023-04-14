@@ -42,7 +42,7 @@ export const DOCS_MENU = {
                 },
                 {
                     title: "Anchor Tag ",
-                    url: "/docs/html/marqueeTag"
+                    url: "/docs/html/anchorTag"
                 },
                 {
                     title: "Form Elements ",
