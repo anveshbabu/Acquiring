@@ -30,23 +30,23 @@ export const DOCS_MENU = {
                 },
                 {
                     title: "Table Tag ",
-                    url: ""
+                    url: "/docs/html/tableTag"
                 },
                 {
                     title: "List Tag",
-                    url: ""
+                    url: "/docs/html/listTag"
                 },
                 {
                     title: "Marquee Tag",
-                    url: ""
+                    url: "/docs/html/marqueeTag"
                 },
                 {
                     title: "Anchor Tag ",
-                    url: ""
+                    url: "/docs/html/marqueeTag"
                 },
                 {
                     title: "Form Elements ",
-                    url: ""
+                    url: "/docs/html/marqueeTag"
                 },
                 {
                     title: "Frames in HTML ",

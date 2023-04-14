@@ -105,7 +105,7 @@ export const HTML_TEXT_FORMAT_TAGS = {
                         <!DOCTYPE html>
                         <html>
                             <head>
-                                <title> HTML | Tutor Joes</title>
+                                <title> HTML | Acquiring technologies</title>
                             </head>
                             <body>
                                 <h1>Text Formatting Tags</h1>
@@ -122,15 +122,15 @@ export const HTML_TEXT_FORMAT_TAGS = {
                                 <s>kjklxcvxcmb.vcnbm;vlcj</s><br><br>
                                 <strike>kjklxcvxcmb.vcnbm;vlcj</strike><br><br>
                                 
-                                <h1>Tutor Joes <sub><small>Learn More Be Smart</small> </sub> </h1>
-                                <h1>Tutor Joes <sub>Learn More Be Smart </sub> Computer Education</h1>
-                                <h1>Tutor Joes <sup><small>Learn More Be Smart</small> </sup> </h1>
+                                <h1>Acquiring technologies <sub><small>Learn More Be Smart</small> </sub> </h1>
+                                <h1>Acquiring technologies <sub>Learn More Be Smart </sub> Computer Education</h1>
+                                <h1>Acquiring technologies <sup><small>Learn More Be Smart</small> </sup> </h1>
                                 
                                 <h1>H<sub>2</sub>O</h1>
                                 <h1>H<sup>2</sup>O</h1>
                                 <p>ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                 <em>Learn More Be Smart</em>
-                                <h1>Tutor Joes <mark>Software</mark> Solution</h1>
+                                <h1>Acquiring technologies <mark>Software</mark> Solution</h1>
                                 
                                 <big>Learn More Be Smart</big><br><br>
                                 <small>Learn More Be Smart</small><br><br>
@@ -141,12 +141,12 @@ export const HTML_TEXT_FORMAT_TAGS = {
                                 <blockquote>On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks. When you create pictures, charts, or diagrams, they also coordinate with your current document look.</blockquote>
                                 On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks. When you create pictures, charts, or diagrams, they also coordinate with your current document look.</p>
                                 
-                                <h1><q>Tutor Joes Software Solution</q></h1>
-                                <pre>Tutor Joes
+                                <h1><q>Acquiring technologies Software Solution</q></h1>
+                                <pre>Acquiring technologies
                                     Computer Education
                                 </pre>
-                                <code><h1>Tutor Joes Computer Education</h1></code>
-                                <samp><h1>Output : <br>Enter Text : Tutor Joes</h1></samp>
+                                <code><h1>Acquiring technologies Computer Education</h1></code>
+                                <samp><h1>Output : <br>Enter Text : Acquiring technologies</h1></samp>
                                 <kbd> Test Line </kbd>
                                 
                             </body>
